@@ -35,12 +35,20 @@ public class Adeel {
 <a href="https://www.linkedin.com/in/adeel-shabbir-0a2ba9238/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/adeel-shabbir&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
+
 <a href="https://x.com/AdeelJaat1">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@AdeelJaat1&color=000&logo=x" height="22px">
 </a>
-<a href="mailto:adeelshabbir086@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=adeelshabbir086@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
+
+<!-- Gmail aur Profile Views side by side -->
+<span style="display: inline-flex; align-items: center; gap: 5px;">
+    <a href="mailto:adeelshabbir086@gmail.com">
+        <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=adeelshabbir086@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=jaatadeel14&label=Profile%20views&color=0e75b6&style=flat" alt="jaatadeel14" height="22px" />
+</span>
+
+
 <br>
 
 <h2>:books: My personal portfolio</h2>
