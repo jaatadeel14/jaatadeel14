@@ -6,12 +6,12 @@ src="https://github.com/jaatadeel14/jaatadeel14/blob/main/assets/header.png"></d
 </div>
 
 ```java
-public class Sarvar {
+public class Adeel {
     private final String name;
     private final String surname;
     private final JSONObject education;
 
-    public Sarvar(String name, String surname, JSONObject education) {
+    public Adeel(String name, String surname, JSONObject education) {
         this.name = name;
         this.surname = surname;
         this.education = education;
@@ -22,7 +22,7 @@ public class Sarvar {
                 .put("university", "Süleyman Demirel University")
                 .put("class", 4);
 
-        Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", educationInfo);
+        Adeel adeelInfo = new Adeel("Adeel", "Shabbir", educationInfo);
     }
 }
 ```
