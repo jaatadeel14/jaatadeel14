@@ -5,13 +5,13 @@ src="https://github.com/jaatadeel14/jaatadeel14/blob/main/assets/header.png"></d
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=64F772&center=true&vCenter=true&random=false&width=435&lines=I+'m+Adeel;Software+Engineer;I+am+an+open+source+lover;A+Tech+Blogger"></a>
 </div>
 
-<pre><code class="java">
-public class Adeelinfo {
+```java
+public class Sarvar {
     private final String name;
     private final String surname;
     private final JSONObject education;
 
-    public Adeelinfo(String name, String surname, JSONObject education) {
+    public Sarvar(String name, String surname, JSONObject education) {
         this.name = name;
         this.surname = surname;
         this.education = education;
@@ -22,10 +22,10 @@ public class Adeelinfo {
                 .put("university", "Süleyman Demirel University")
                 .put("class", 4);
 
-        Adeelinfo adeelInfo = new Adeelinfo("Adeel", "Shabbir", educationInfo);
+        Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", educationInfo);
     }
 }
-</code></pre>
+```
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/jaatadeel14">
